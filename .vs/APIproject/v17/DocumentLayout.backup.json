@@ -7,24 +7,48 @@
       "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\repositories\\implementations\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\repositories\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\repositories\\implementations\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\repositories\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\dto\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\dto\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\dto\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\dto\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,32 +58,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Category\\UpdateCategoryDTO.cs",
-              "RelativeDocumentMoniker": "APIproject\\DTO\\Category\\UpdateCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Category\\UpdateCategoryDTO.cs",
-              "RelativeToolTip": "APIproject\\DTO\\Category\\UpdateCategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T13:05:47.404Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CreateCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Category\\CreateCategoryDTO.cs",
-              "RelativeDocumentMoniker": "APIproject\\DTO\\Category\\CreateCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Category\\CreateCategoryDTO.cs",
-              "RelativeToolTip": "APIproject\\DTO\\Category\\CreateCategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "APIproject\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Implementations\\CategoryRepository.cs",
+              "RelativeToolTip": "APIproject\\Repositories\\Implementations\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T12:57:20.018Z",
+              "WhenOpened": "2024-12-24T21:32:34.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "APIproject\\Repositories\\Implementations\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Implementations\\ProductRepository.cs",
+              "RelativeToolTip": "APIproject\\Repositories\\Implementations\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:32:22.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "APIproject\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "APIproject\\Repositories\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:30:43.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "APIproject\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "APIproject\\Repositories\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T21:30:27.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Program.cs",
+              "RelativeDocumentMoniker": "APIproject\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Program.cs",
+              "RelativeToolTip": "APIproject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:01:34.49Z",
               "EditorCaption": ""
             },
             {
@@ -68,55 +135,86 @@
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "APIproject\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "APIproject\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAADUAAAA+AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Controllers\\CategoriesController.cs*",
+              "RelativeToolTip": "APIproject\\Controllers\\CategoriesController.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T12:40:11.625Z",
+              "WhenOpened": "2024-12-24T20:00:08.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Implementations\\Repository.cs",
-              "RelativeDocumentMoniker": "APIproject\\Repositories\\Implementations\\Repository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Implementations\\Repository.cs",
-              "RelativeToolTip": "APIproject\\Repositories\\Implementations\\Repository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowC8AAABZAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APIproject\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "APIproject\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T12:28:52.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T19:56:02.007Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "APIproject\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Entity\\Category.cs",
+              "RelativeToolTip": "APIproject\\Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:54:48.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Entity\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "APIproject\\Entity\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Entity\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "APIproject\\Entity\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:54:40.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "APIproject\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Entity\\Product.cs",
+              "RelativeToolTip": "APIproject\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:53:43.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "APIproject\\Repositories\\Interfaces\\IRepository.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "APIproject\\Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T12:28:11.633Z",
+              "WhenOpened": "2024-12-24T19:50:08.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Program.cs",
-              "RelativeDocumentMoniker": "APIproject\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Program.cs",
-              "RelativeToolTip": "APIproject\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBQAAABBAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "APIproject\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "APIproject\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFAAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T12:26:12.45Z",
+              "WhenOpened": "2024-12-24T14:47:33.704Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

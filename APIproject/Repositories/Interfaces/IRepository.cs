@@ -1,16 +1,26 @@
-﻿namespace APIproject.Repositories.Interfaces
+﻿using APIproject.Entity.Base;
+using System.Linq.Expressions;
+
+namespace APIproject.Repositories.Interfaces
 {
-    public interface IRepository
+    public interface IRepository<T> where T : BaseEntity, new()
     {
-        IQueryable<Category> GetAll();
+        IQueryable<T> GetAll(
+            Expression<Func<T, bool>>? expression = null,
+            Expression<Func<T, object>>? sort=null,
+            bool IsDescending = false,
+            bool IsTracking = false,
+            int skip = 0,
+            int take = 0,
+            params string[]? includes);
 
-        Task<Category> GetbyIdAsync(int? id);  
+        Task<T> GetbyIdAsync(int? id);  
 
-        Task AddAsync(Category category);
+        Task AddAsync(T entity);
 
-        void Delete(Category category);
+        void Delete(T entity);
 
-        void Update(Category category);
+        void Update(T entity);
 
         Task<bool> Check(Category category);
         Task<int> SaveChangesAsync();

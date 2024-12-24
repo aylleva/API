@@ -14,16 +14,16 @@ namespace APIproject.Controllers
     public class CategoriesController : ControllerBase
     {
        
-        private readonly IRepository _repository;
+        private readonly ICategoryRepository _repository;
 
-        public CategoriesController(IRepository repository)
+        public CategoriesController(ICategoryRepository repository)
         {
             _repository = repository;
         }
         [HttpGet]
-        public async Task<IActionResult> Get()
+        public async Task<IActionResult> Get(int page=1,int take=2)
         {
-            List<Category> categories =await _repository.GetAll().ToListAsync();
+            List<Category> categories =await _repository.GetAll(c=>c.Name.Contains("o"),c=>c.Name,true,true,(page-1)*take,take,"Products").ToListAsync();
             return Ok(categories);
         }
 

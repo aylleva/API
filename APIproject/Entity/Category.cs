@@ -1,9 +1,12 @@
-﻿namespace APIproject.Entity
+﻿using APIproject.Entity.Base;
+
+namespace APIproject.Entity
 {
-    public class Category
+    public class Category:BaseEntity
     {
-        public int Id { get; set; }
         public string Name {  get; set; }
+
+        public ICollection<Product> Products { get; set; }
 
     }
 }
