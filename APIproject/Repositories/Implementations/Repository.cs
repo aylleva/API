@@ -31,10 +31,7 @@ namespace APIproject.Repositories.Implementations
 
             if(includes is not null)
             {
-                for(int i = 0; i < includes.Length; i++)
-                {
-                    query=query.Include(includes[i]);
-                }
+              query=getincludes(query, includes);
             }
 
             if(sort is not null)  query=IsDescending? query.OrderByDescending(sort):query.OrderBy(sort);
@@ -47,8 +44,15 @@ namespace APIproject.Repositories.Implementations
            
         }
 
-        public async Task<T> GetbyIdAsync(int? id)
+        public async Task<T> GetbyIdAsync(int? id,params string[] includes)
         {
+            IQueryable<T> query=_table;
+            
+            if(includes is not null)
+            {
+                query=getincludes(query, includes);
+            }
+
             return await _table.FirstOrDefaultAsync(c=>c.Id==id);
         }
 
@@ -73,11 +77,20 @@ namespace APIproject.Repositories.Implementations
         {
            return await _context.SaveChangesAsync();
         }
+        
 
-        public async Task<bool> Check(Category category)
+      private IQueryable<T> getincludes(IQueryable<T> query,params string[] includes)
         {
-            return await _context.Categories.AnyAsync(x => x.Name.Trim() ==category.Name.Trim());
+            for (int i = 0; i < includes.Length; i++)
+            {
+                query = query.Include(includes[i]);
+            }
+            return query;
         }
-        //bunu servicede yazacagiq deye generic etmedim sade yoxlama ucun yazmisam
+
+        public Task<bool> AnyAsync(Expression<Func<T, bool>>? expression)
+        {
+          return _table.AnyAsync(expression);
+        }
     }
 }

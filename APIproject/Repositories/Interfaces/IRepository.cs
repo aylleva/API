@@ -14,15 +14,15 @@ namespace APIproject.Repositories.Interfaces
             int take = 0,
             params string[]? includes);
 
-        Task<T> GetbyIdAsync(int? id);  
-
+        Task<T> GetbyIdAsync(int? id, params string[] includes);  
+        
         Task AddAsync(T entity);
 
         void Delete(T entity);
 
         void Update(T entity);
 
-        Task<bool> Check(Category category);
+        Task<bool> AnyAsync(Expression<Func<T, bool>>? expression);
         Task<int> SaveChangesAsync();
     }
 }

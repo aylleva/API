@@ -3,80 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\API\\APIproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\services\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\services\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\services\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\services\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\dto\\color\\updatecolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\dto\\color\\updatecolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\dto\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\dto\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\dto\\color\\createcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\dto\\color\\createcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\dto\\color\\getcolordetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\dto\\color\\getcolordetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\dto\\color\\getcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\dto\\color\\getcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\dto\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\dto\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\dto\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\dto\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Migrations\\20241226034803_createColorsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:APIproject\\Migrations\\20241226034803_createColorsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\repositories\\interfaces\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\repositories\\interfaces\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\entity\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\entity\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\dto\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\dto\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\services\\implementations\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\dto\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\dto\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|c:\\users\\user\\desktop\\api\\apiproject\\apiproject\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37D59C3-C684-4593-BFC2-20D8CA210955}|APIproject\\APIproject.csproj|solutionrelative:apiproject\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,293 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetColorDetailDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Color\\GetColorDetailDTO.cs",
-              "RelativeDocumentMoniker": "APIproject\\DTO\\Color\\GetColorDetailDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Color\\GetColorDetailDTO.cs",
-              "RelativeToolTip": "APIproject\\DTO\\Color\\GetColorDetailDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T03:53:49.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateColorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Color\\UpdateColorDTO.cs",
-              "RelativeDocumentMoniker": "APIproject\\DTO\\Color\\UpdateColorDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Color\\UpdateColorDTO.cs",
-              "RelativeToolTip": "APIproject\\DTO\\Color\\UpdateColorDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T03:52:09.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateColorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Color\\CreateColorDTO.cs",
-              "RelativeDocumentMoniker": "APIproject\\DTO\\Color\\CreateColorDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Color\\CreateColorDTO.cs",
-              "RelativeToolTip": "APIproject\\DTO\\Color\\CreateColorDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T03:51:56.925Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GetColorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Color\\GetColorDTO.cs",
-              "RelativeDocumentMoniker": "APIproject\\DTO\\Color\\GetColorDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Color\\GetColorDTO.cs",
-              "RelativeToolTip": "APIproject\\DTO\\Color\\GetColorDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T03:51:38.756Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20241226034803_createColorsTable.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Migrations\\20241226034803_createColorsTable.cs",
-              "RelativeDocumentMoniker": "APIproject\\Migrations\\20241226034803_createColorsTable.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Migrations\\20241226034803_createColorsTable.cs",
-              "RelativeToolTip": "APIproject\\Migrations\\20241226034803_createColorsTable.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T03:48:04.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "APIproject\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "APIproject\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T03:47:23.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ColorService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Services\\Implementations\\ColorService.cs",
-              "RelativeDocumentMoniker": "APIproject\\Services\\Implementations\\ColorService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Services\\Implementations\\ColorService.cs",
-              "RelativeToolTip": "APIproject\\Services\\Implementations\\ColorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T03:47:20.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IColorService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Services\\Interfaces\\IColorService.cs",
-              "RelativeDocumentMoniker": "APIproject\\Services\\Interfaces\\IColorService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Services\\Interfaces\\IColorService.cs",
-              "RelativeToolTip": "APIproject\\Services\\Interfaces\\IColorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T03:47:04.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ColorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Implementations\\ColorRepository.cs",
-              "RelativeDocumentMoniker": "APIproject\\Repositories\\Implementations\\ColorRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Implementations\\ColorRepository.cs",
-              "RelativeToolTip": "APIproject\\Repositories\\Implementations\\ColorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T03:45:23.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IColorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Interfaces\\IColorRepository.cs",
-              "RelativeDocumentMoniker": "APIproject\\Repositories\\Interfaces\\IColorRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Interfaces\\IColorRepository.cs",
-              "RelativeToolTip": "APIproject\\Repositories\\Interfaces\\IColorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T03:43:57.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Color.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Entity\\Color.cs",
-              "RelativeDocumentMoniker": "APIproject\\Entity\\Color.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Entity\\Color.cs",
-              "RelativeToolTip": "APIproject\\Entity\\Color.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T03:42:19.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ColorsController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Controllers\\ColorsController.cs",
-              "RelativeDocumentMoniker": "APIproject\\Controllers\\ColorsController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Controllers\\ColorsController.cs",
-              "RelativeToolTip": "APIproject\\Controllers\\ColorsController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAA9wCsAAABAAAAAAAAAAA==",
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "APIproject\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Controllers\\CategoriesController.cs*",
+              "RelativeToolTip": "APIproject\\Controllers\\CategoriesController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T03:41:40.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UpdateCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Category\\UpdateCategoryDTO.cs",
-              "RelativeDocumentMoniker": "APIproject\\DTO\\Category\\UpdateCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Category\\UpdateCategoryDTO.cs",
-              "RelativeToolTip": "APIproject\\DTO\\Category\\UpdateCategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T14:24:33.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CreateCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Category\\CreateCategoryDTO.cs",
-              "RelativeDocumentMoniker": "APIproject\\DTO\\Category\\CreateCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Category\\CreateCategoryDTO.cs",
-              "RelativeToolTip": "APIproject\\DTO\\Category\\CreateCategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T14:24:12.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "APIproject\\Repositories\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "APIproject\\Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T14:16:16.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Implementations\\Repository.cs",
-              "RelativeDocumentMoniker": "APIproject\\Repositories\\Implementations\\Repository.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Implementations\\Repository.cs",
-              "RelativeToolTip": "APIproject\\Repositories\\Implementations\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T14:14:33.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Program.cs",
-              "RelativeDocumentMoniker": "APIproject\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Program.cs",
-              "RelativeToolTip": "APIproject\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:48:02.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GetProductDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Product\\GetProductDTO.cs",
-              "RelativeDocumentMoniker": "APIproject\\DTO\\Product\\GetProductDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Product\\GetProductDTO.cs",
-              "RelativeToolTip": "APIproject\\DTO\\Product\\GetProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:35:24.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GetCategoryDetailDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Category\\GetCategoryDetailDTO.cs",
-              "RelativeDocumentMoniker": "APIproject\\DTO\\Category\\GetCategoryDetailDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Category\\GetCategoryDetailDTO.cs",
-              "RelativeToolTip": "APIproject\\DTO\\Category\\GetCategoryDetailDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:34:51.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GetCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Category\\GetCategoryDTO.cs",
-              "RelativeDocumentMoniker": "APIproject\\DTO\\Category\\GetCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\DTO\\Category\\GetCategoryDTO.cs",
-              "RelativeToolTip": "APIproject\\DTO\\Category\\GetCategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:34:08.305Z",
+              "WhenOpened": "2024-12-26T07:03:34.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "APIproject\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "APIproject\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAIwAgAAAAAAAAAAAAAAA==",
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "APIproject\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "APIproject\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAuwFwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:26:07.093Z",
+              "WhenOpened": "2024-12-26T06:48:20.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Services\\Implementations\\CategoryService.cs",
-              "RelativeDocumentMoniker": "APIproject\\Services\\Implementations\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Services\\Implementations\\CategoryService.cs",
-              "RelativeToolTip": "APIproject\\Services\\Implementations\\CategoryService.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAUwEwAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "APIproject\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "APIproject\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:25:30.515Z",
+              "WhenOpened": "2024-12-26T06:47:34.786Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -398,9 +83,22 @@
               "RelativeDocumentMoniker": "APIproject\\Services\\Interfaces\\ICategoryService.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Services\\Interfaces\\ICategoryService.cs",
               "RelativeToolTip": "APIproject\\Services\\Interfaces\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:24:38.436Z",
+              "WhenOpened": "2024-12-26T06:45:41.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Services\\Implementations\\CategoryService.cs",
+              "RelativeDocumentMoniker": "APIproject\\Services\\Implementations\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\API\\APIproject\\APIproject\\Services\\Implementations\\CategoryService.cs",
+              "RelativeToolTip": "APIproject\\Services\\Implementations\\CategoryService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T06:45:18.477Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,5 @@
 ﻿using APIproject.DTO;
+using APIproject.DTO.Category;
 
 namespace APIproject.Services.Interfaces
 {

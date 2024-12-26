@@ -1,4 +1,5 @@
 ﻿using APIproject.DTO;
+using APIproject.DTO.Category;
 using APIproject.Repositories.Interfaces;
 using APIproject.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
@@ -31,7 +32,7 @@ namespace APIproject.Services.Implementations
 
         public async Task<GetCategoryDetailDTO> GetbyIdAsync(int id)
         {
-          Category category= await _repository.GetbyIdAsync(id,nameof(Category.Products));
+          Category category= await _repository.GetbyIdAsync(id);
 
             if (category is null) throw new Exception("Category does not exist");
             GetCategoryDetailDTO categorydto = new()
