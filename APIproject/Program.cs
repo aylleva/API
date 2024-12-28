@@ -1,6 +1,8 @@
 
 using APIproject.Repositories.Implementations;
 using APIproject.Repositories.Interfaces;
+using APIproject.Services.Implementations;
+using APIproject.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System.Text.Json.Serialization;
 
@@ -24,6 +26,9 @@ namespace APIproject
 
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
             builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
+            builder.Services.AddScoped<ICategoryService,CategoryService>();
+            builder.Services.AddScoped<IColorService, ColorService>();
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

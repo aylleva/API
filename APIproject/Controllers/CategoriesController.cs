@@ -15,12 +15,12 @@ namespace APIproject.Controllers
     public class CategoriesController : ControllerBase
     {
        
-        private readonly ICategoryRepository _repository;
+       
         private readonly ICategoryService _service;
 
-        public CategoriesController(ICategoryRepository repository,ICategoryService service)
+        public CategoriesController(ICategoryService service)
         {
-            _repository = repository;
+           
             _service = service;
         }
         [HttpGet]
