@@ -53,7 +53,7 @@ namespace APIproject.Repositories.Implementations
                 query=getincludes(query, includes);
             }
 
-            return await _table.FirstOrDefaultAsync(c=>c.Id==id);
+            return await query.FirstOrDefaultAsync(c=>c.Id==id);
         }
 
 
